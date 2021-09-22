@@ -1,4 +1,4 @@
 <snippet>
-    <content><![CDATA[<f:flashMessages${3: renderMode="${2:div}"} />]]></content>
+    <content><![CDATA[<f:flashMessages ${3:queueIdentifier="${1:myQueue}" as="${2:myFlash}" }/>]]></content>
     <tabTrigger>fflashmessages</tabTrigger>
 </snippet>

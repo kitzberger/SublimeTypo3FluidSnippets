@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:defaultCase>${0}</f:defaultCase>]]></content>
+    <tabTrigger>fdefaultcase</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:spaceless>${0}</f:spaceless>]]></content>
+    <tabTrigger>fspaceless</tabTrigger>
+</snippet>

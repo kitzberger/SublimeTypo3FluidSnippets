@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:or content="${1:}" alternative="${2:}" ${3:arguments="\{x:123\}" }/>]]></content>
+    <tabTrigger>for</tabTrigger>
+</snippet>

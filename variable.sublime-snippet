@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:variable name="${1:foo}">${0}</f:variable>]]></content>
+    <tabTrigger>fvariable</tabTrigger>
+</snippet>

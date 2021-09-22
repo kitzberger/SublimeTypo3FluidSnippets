@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.json${2: forceObject="${1:true}"}>${0:\{0:'bar',1:'baz'\}}</f:format.json>]]></content>
+    <tabTrigger>fformatjson</tabTrigger>
+</snippet>
