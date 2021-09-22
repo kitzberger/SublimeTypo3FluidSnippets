@@ -1,4 +1,4 @@
 <snippet>
-    <content><![CDATA[<f:debug${3: title="${2:title}"}>{${1:variable}}</f:debug>]]></content>
+    <content><![CDATA[<f:debug${4: title="${2:title}" inline="${3:true}"}>{${1:_all}}</f:debug>]]></content>
     <tabTrigger>fdebug</tabTrigger>
 </snippet>
