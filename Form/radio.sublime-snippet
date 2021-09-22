@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.radio ${2:property}="${1:propertyName}" value="${3:someValue}" />]]></content>
+    <tabTrigger>fformradio</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.padding padLength="${1:2}" padString="${2:.}" padType="${3:right}${4:left}${5:both}">${0}</f:format.padding>]]></content>
+    <tabTrigger>fformatpadding</tabTrigger>
+</snippet>

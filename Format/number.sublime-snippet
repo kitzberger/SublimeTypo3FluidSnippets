@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.number decimals="${1:2}" decimalSeparator="${2:.}" thousandsSeparator="${3:,}">${0}</f:format.number>]]></content>
+    <tabTrigger>fformatnumber</tabTrigger>
+</snippet>

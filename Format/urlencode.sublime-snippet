@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.urlencode>${0}</f:format.urlencode>]]></content>
+    <tabTrigger>fformaturlencode</tabTrigger>
+</snippet>

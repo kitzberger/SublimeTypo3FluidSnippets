@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:widget.uri action="${1:action}"${3: arguments="{${2:foo: bar}\}"}>${0}</f:widget.uri>]]></content>
+    <tabTrigger>fwidgeturi</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:uri.image src="${1:imagepath}"${3: width="${2:width}"}${5: height="${4:height}"}${7: treatIdAsReference="${6:1}"} />]]></content>
+    <tabTrigger>furiimage</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:link.page${2: pageUid="${1:uid}"}${4: additionalParams="{${3:foo: bar}\}"}>${0}</f:link.page>]]></content>
+    <tabTrigger>flinkpage</tabTrigger>
+</snippet>

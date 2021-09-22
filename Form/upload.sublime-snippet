@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.upload ${2:property}="${1:propertyName}" />]]></content>
+    <tabTrigger>fformupload</tabTrigger>
+</snippet>

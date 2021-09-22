@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:uri.page${2: pageUid="${1:uid}"}${4: additionalParams="{${3:foo: bar}\}"}>${0}</f:uri.page>]]></content>
+    <tabTrigger>furipage</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.printf arguments="{${1:0: 'string', 1: '12345'}}">${2:%s %d}</f:format.printf>]]></content>
+    <tabTrigger>fformatprintf</tabTrigger>
+</snippet>

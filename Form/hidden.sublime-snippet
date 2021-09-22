@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.hidden ${2:property}="${1:propertyName}" value="${3:value}" />]]></content>
+    <tabTrigger>fformhidden</tabTrigger>
+</snippet>

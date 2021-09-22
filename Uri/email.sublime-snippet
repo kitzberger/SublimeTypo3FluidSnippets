@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:uri.email email="${1:email@domain.com}" />]]></content>
+    <tabTrigger>furiemail</tabTrigger>
+</snippet>

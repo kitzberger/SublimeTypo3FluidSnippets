@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.cdata>${0}</f:format.cdata>]]></content>
+    <tabTrigger>fformatcdata</tabTrigger>
+</snippet>

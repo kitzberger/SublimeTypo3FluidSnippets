@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:render ${1:partial}${2:section}="${3:PartialOrSectionName}"${5: arguments="{${4:foo: bar}\}"} />]]></content>
+    <tabTrigger>frender</tabTrigger>
+</snippet>

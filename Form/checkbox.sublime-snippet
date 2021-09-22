@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.checkbox ${2:property}="${1:propertyName}" value="${3:someValue}" />]]></content>
+    <tabTrigger>fformcheckbox</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.raw>${0}</f:format.raw>]]></content>
+    <tabTrigger>fformatraw</tabTrigger>
+</snippet>

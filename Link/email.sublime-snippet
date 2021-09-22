@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:link.email email="${1:email@domain.com}" />]]></content>
+    <tabTrigger>flinkemail</tabTrigger>
+</snippet>

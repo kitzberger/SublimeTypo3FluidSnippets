@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<f:for each="{${1:variable}}" as="${2:contentOfVariable}"${4: key="${3:keyOfVariable}"}>
+	${0}
+</f:for>]]></content>
+    <tabTrigger>ffor</tabTrigger>
+</snippet>

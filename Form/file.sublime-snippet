@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.upload ${2:name}="${1:file}" />]]></content>
+    <tabTrigger>ffile</tabTrigger>
+</snippet>

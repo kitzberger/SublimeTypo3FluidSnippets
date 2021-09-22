@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.select ${2:property}="${1:propertyName}" options="{${3:optionArray}}"${5: optionValueField="${4:uid}"}${7: optionLabelField="${6:title}"} />]]></content>
+    <tabTrigger>fformselect</tabTrigger>
+</snippet>

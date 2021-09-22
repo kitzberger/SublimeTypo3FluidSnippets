@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.htmlentitiesDecode>${0}</f:format.htmlentitiesDecode>]]></content>
+    <tabTrigger>fformathtmlentitiesdecode</tabTrigger>
+</snippet>

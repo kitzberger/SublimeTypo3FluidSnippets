@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.bytes decimalSeparator="${1:.}" thousandsSeparator="${2:,}">${0}</f:format.bytes>]]></content>
+    <tabTrigger>fformatbytes</tabTrigger>
+</snippet>

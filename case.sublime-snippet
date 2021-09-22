@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:case value="{${1:value}}">${0}</f:case>]]></content>
+    <tabTrigger>fcase</tabTrigger>
+</snippet>

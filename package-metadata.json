@@ -1,0 +1,1 @@
+{"url": "http://daniel-siepmann.de/projects/sublime-text/fluid-snippets/", "description": "Add snippets for TYPO3 Fluid core ViewHelpers to Sublime Text Editor.", "platforms": ["*"], "version": "2017.02.17.21.59.29", "dependencies": [], "sublime_text": "*"}

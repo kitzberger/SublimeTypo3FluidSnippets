@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.nl2br>${0}</f:format.nl2br>]]></content>
+    <tabTrigger>fformatnl2br</tabTrigger>
+</snippet>

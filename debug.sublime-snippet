@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:debug${3: title="${2:title}"}>{${1:variable}}</f:debug>]]></content>
+    <tabTrigger>fdebug</tabTrigger>
+</snippet>

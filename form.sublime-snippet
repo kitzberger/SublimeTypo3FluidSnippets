@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<f:form action="${1:action}"${3: controller="${2:controller}"}${4: enctype="multipart/form-data"}>
+	${0}
+</f:form>]]></content>
+    <tabTrigger>fform</tabTrigger>
+</snippet>

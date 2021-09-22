@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:form.submit name="${1:mySubmit}" value="${2:Submit}" />]]></content>
+    <tabTrigger>fformsubmit</tabTrigger>
+</snippet>

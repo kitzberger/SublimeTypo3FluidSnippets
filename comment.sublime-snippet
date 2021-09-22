@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<f:comment>
+    ${0}
+</f:comment>]]></content>
+    <tabTrigger>fcomment</tabTrigger>
+</snippet>

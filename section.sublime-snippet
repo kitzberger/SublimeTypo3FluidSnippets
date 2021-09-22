@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:section name="${1:SectionName}" />]]></content>
+    <tabTrigger>fsection</tabTrigger>
+</snippet>

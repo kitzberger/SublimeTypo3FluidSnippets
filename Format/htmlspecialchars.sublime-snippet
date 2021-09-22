@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.htmlspecialchars>${0}</f:format.htmlspecialchars>]]></content>
+    <tabTrigger>fformathtmlspecialchars</tabTrigger>
+</snippet>

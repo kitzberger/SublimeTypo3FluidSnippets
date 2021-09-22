@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.currency${2: currencySign="${1:€}"}${4: decimalSeparator="${3:,}"}${6: thousandsSeparator="${5:.}"}>${0}</f:format.currency>]]></content>
+    <tabTrigger>fformatcurrency</tabTrigger>
+</snippet>

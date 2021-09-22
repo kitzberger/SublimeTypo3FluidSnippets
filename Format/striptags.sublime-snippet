@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.stripTags>${0}</f:format.stripTags>]]></content>
+    <tabTrigger>fformatstriptags</tabTrigger>
+</snippet>

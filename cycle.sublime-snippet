@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<f:cycle values="{${1:0: '..', 1: '--', 2: 'xx'}}" as="${2:cycle}">
+	${0}
+</f:cycle>]]></content>
+    <tabTrigger>fcycle</tabTrigger>
+</snippet>

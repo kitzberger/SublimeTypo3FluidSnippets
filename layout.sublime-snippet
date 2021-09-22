@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:layout name="${1:LayoutName}" />]]></content>
+    <tabTrigger>flayout</tabTrigger>
+</snippet>

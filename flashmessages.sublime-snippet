@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:flashMessages${3: renderMode="${2:div}"} />]]></content>
+    <tabTrigger>fflashmessages</tabTrigger>
+</snippet>

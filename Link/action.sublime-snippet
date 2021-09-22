@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:link.action action="${1:action}"${3: controller="${2:controller}"}${5: arguments="{${4:foo: bar}\}"}>${0}</f:link.action>]]></content>
+    <tabTrigger>flinkaction</tabTrigger>
+</snippet>

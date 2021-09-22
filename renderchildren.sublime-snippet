@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<f:renderChildren${4: arguments="{${3:foo: bar}\}"}>
+	${0}
+</f:renderChildren>]]></content>
+    <tabTrigger>frenderchildren</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<f:form.validationResults for="{${1:variable}}">
+	${0}
+</f:form.validationResults>]]></content>
+    <tabTrigger>fformvalidationresults</tabTrigger>
+</snippet>

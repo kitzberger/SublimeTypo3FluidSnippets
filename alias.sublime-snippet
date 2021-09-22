@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<f:alias map="{${1:x: foo.bar.baz, y: foo.bar.baz.name}}">
+	${0}
+</f:alias>]]></content>
+    <tabTrigger>falias</tabTrigger>
+</snippet>

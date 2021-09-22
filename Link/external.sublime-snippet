@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:link.external uri="${1:uri}"${3: target="${2:_blank}"}>${0}</f:link.external>]]></content>
+    <tabTrigger>flinkexternal</tabTrigger>
+</snippet>

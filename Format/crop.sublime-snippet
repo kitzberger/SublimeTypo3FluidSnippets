@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:format.crop maxCharacters="${1:17}" append="${2:&nbsp;[...]}">${0}</f:format.crop>]]></content>
+    <tabTrigger>fformatcrop</tabTrigger>
+</snippet>

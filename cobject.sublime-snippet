@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:cObject typoscriptObjectPath="${1:lib.mylib}"${3: data="${2:data}"} />]]></content>
+    <tabTrigger>fcobject</tabTrigger>
+</snippet>

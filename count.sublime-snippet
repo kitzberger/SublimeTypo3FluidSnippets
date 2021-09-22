@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:count subject="{${1:array}}" />]]></content>
+    <tabTrigger>fcount</tabTrigger>
+</snippet>

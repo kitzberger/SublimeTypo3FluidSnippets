@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<f:groupedFor each="{${1:variable}}" as="${2:contentOfVariable}" groupBy="${3:groupBy}" groupKey="${4:groupKey}">
+	${0}
+</f:groupedFor>]]></content>
+    <tabTrigger>fgroupedfor</tabTrigger>
+</snippet>

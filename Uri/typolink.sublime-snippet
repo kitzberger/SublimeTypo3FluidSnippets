@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:uri.typolink parameter="${1:link}" />]]></content>
+    <tabTrigger>furitypolink</tabTrigger>
+</snippet>

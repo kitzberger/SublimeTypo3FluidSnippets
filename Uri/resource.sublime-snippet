@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:uri.resource path="${1:path}"${3: extensionName="${2:extensionName}"} />]]></content>
+    <tabTrigger>furiresource</tabTrigger>
+</snippet>

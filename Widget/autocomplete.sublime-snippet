@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[<f:widget.autocomplete for="${1:name}" objects="{${2:objects}}" searchProperty="${3:searchProperty}" />]]></content>
+    <tabTrigger>fwidgetautocomplete</tabTrigger>
+</snippet>
